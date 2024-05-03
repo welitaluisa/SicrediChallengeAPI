@@ -15,7 +15,7 @@ Este projeto visa testar e automatizar a API responsável por gerenciar produtos
 
 ## Configuração e Execução
 
-1. Clonar o projeto git clone https://gitlab.com/welita/desafio-qe-soft-design.git
+1. Clonar o projeto git clone https://github.com/welitaluisa/SicrediChallengeAPI
 2. Certifique-se de ter as dependências do Maven instaladas e configuradas corretamente. 
 3. Executar as classes de teste desejadas.
     - Para executar todos os testes, execute `mvn test` no terminal.
