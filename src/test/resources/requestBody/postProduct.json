@@ -1,0 +1,11 @@
+{
+  "title": "Smartphone Galaxy S22",
+  "description": "Ultimate performance and camera",
+  "price": 999,
+  "discountPercentage":  5.0,
+  "rating": 4.8,
+  "stock": 45,
+  "brand": "Samsung",
+  "category": "Electronics",
+  "thumbnail": "https://example.com/samsung_s22.jpg"
+}
